@@ -80,9 +80,14 @@ Utilizo este espaço para compartilhar meus projetos pessoais, acadêmicos e exp
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bidzin&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bidzin&layout=compact&theme=github_dark)
+<p align="center">
+  <a href="https://github.com/bidzin">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bidzin&show_icons=true&theme=github_dark&include_all_commits=true"/>
+  </a>
+  <a href="https://github.com/bidzin">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bidzin&layout=compact&theme=github_dark"/>
+  </a>
+</p>
 
 ---
 
